@@ -22,3 +22,10 @@ p {
 p {
   display: block;
 }
+.croissant-photo {
+  display: block;
+  margin: 30px auto;
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
